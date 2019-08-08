@@ -1,0 +1,2 @@
+# linebot
+Aku pengin belajar
